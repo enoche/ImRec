@@ -1,2 +1,4 @@
 # ImRec
-Recommendation Framework with Implicit Feedback.
+**Im**plicit feedback based **Rec**ommendation (ImRec).
+
+
