@@ -1,5 +1,4 @@
-# ImRec
-**Im**plicit feedback based **Rec**ommendation framework (ImRec).  
+# ImRec:**Im**plicit feedback based **Rec**ommendation framework
 _We opensource the framework and wish it could benefit the community._
 
 ## Features
