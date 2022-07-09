@@ -9,7 +9,7 @@ _We opensource the framework and hope it could benefit the community._
   - Self-supervised with observed interactions only
 
 - **Unified and order-invariant grid search (GS) entry**
-  - One entry for grid search and per-train of model
+  - One entry for grid search and per-run of model
   - Reproduce same results no matter what order of hyper-parameters in GS
   - Results summarized to ease your manual comparison after GS
 
