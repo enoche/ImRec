@@ -1,5 +1,6 @@
-# ImRec:**Im**plicit feedback based **Rec**ommendation framework
-_We opensource the framework and wish it could benefit the community._
+# ImRec:<ins>Im</ins>plicit feedback based *<ins>Rec</ins>ommendation framework  
+
+_We opensource the framework and hope it could benefit the community._
 
 ## Features
 - **Supporting various supervised tasks**
@@ -17,12 +18,12 @@ _We opensource the framework and wish it could benefit the community._
     splittings suffer from **data leakage** and do not hold this property._)
   - Strictly predict future interactions.
 
+
 ## LayerGCN: Layer-refined Graph Convolutional Networks for Recommendation
 
 <p>
 <img src="./images/layergcn.png" width="800">
 </p>
-
 
 ## Data  
 Download from Google Drive: [Amazon-Vedio-Games/Food etc.](https://drive.google.com/drive/folders/1WqRAeoWWGdZplYkjS4640V7v0urNiTXg?usp=sharing)    
