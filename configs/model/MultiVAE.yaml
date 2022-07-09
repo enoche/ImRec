@@ -1,0 +1,8 @@
+mlp_hidden_size: [600]
+embedding_size: 64
+dropout: [0.5]
+anneal_cap: 0.2
+total_anneal_steps: 200000
+eval_batch_size: 2048
+hyper_parameters: ["dropout"]
+

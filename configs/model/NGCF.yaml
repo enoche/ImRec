@@ -1,0 +1,5 @@
+embedding_size: 64
+hidden_size_list: [64,64,64]
+reg_weight: [1]
+hyper_parameters: ["reg_weight"]
+

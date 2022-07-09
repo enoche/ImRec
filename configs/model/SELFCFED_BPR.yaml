@@ -1,0 +1,6 @@
+embedding_size: 64
+dropout: [0.05]
+reg_weight: [0.0]
+linear_weight: [1e-02]
+use_neg_sampling: False
+hyper_parameters: ["dropout", "reg_weight", "linear_weight"]

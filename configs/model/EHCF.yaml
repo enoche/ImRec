@@ -1,0 +1,7 @@
+embedding_size: 64
+reg_weight: [1/6.0]
+train_batch_size: 256
+eval_batch_size: 128
+use_neg_sampling: True
+use_full_sampling: True
+hyper_parameters: ["reg_weight"]
