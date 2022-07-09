@@ -11,7 +11,7 @@ _We opensource the framework and hope it could benefit the community._
 - **Unified and order-invariant grid search (GS) entry**
   - One entry for grid search and per-run of model
   - Reproduce same results no matter what order of hyper-parameters in GS
-  - Results summarized to ease your manual comparison after GS
+  - Results are summarized to ease your manual comparison after GS
 
 - **Align recommendation with Industry**
   - Global time splitting with timeline (_Same source data, same results! Previous random 
