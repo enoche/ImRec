@@ -140,10 +140,10 @@ class Trainer(AbstractTrainer):
                 loss = losses
                 total_loss = losses.item() if total_loss is None else total_loss + losses.item()
             self._check_nan(loss)
-            #loss.backward()
+            loss.backward()
             if self.clip_grad_norm:
                 clip_grad_norm_(self.model.parameters(), **self.clip_grad_norm)
-            #self.optimizer.step()
+            self.optimizer.step()
             loss_batches.append(loss.detach())
         return total_loss, loss_batches
 
@@ -263,7 +263,7 @@ class Trainer(AbstractTrainer):
                 if update_flag:
                     if saved:
                         self._save_checkpoint(epoch_idx)
-                        update_output = str(f'██Saving current best: {self.saved_model_file}')
+                        update_output = '██Saving current best: %s' % self.saved_model_file
                         if verbose:
                             self.logger.info(update_output)
                     self.best_valid_result = valid_result
