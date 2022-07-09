@@ -14,7 +14,7 @@ _We opensource the framework and hope it could benefit the community._
   - Results are summarized to ease your manual comparison after GS
 
 - **Align recommendation with Industry**
-  - Global time splitting with timeline (_Same source data, same results! Previous random 
+  - Global time splitting with timeline (_Same raw source data, same results! Previous random 
     splittings suffer from **data leakage** and do not hold this property._)
   - Strictly predict future interactions.
 
