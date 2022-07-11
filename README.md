@@ -3,6 +3,12 @@
 _We opensource the framework and hope it could benefit the community._
 
 ## Features
+
+- **Align recommendation to Industry**
+  - Global time splitting with timestamp (_Same raw source data, same results! Previous random 
+    splittings suffer from **data leakage** and do not hold this property._)
+  - Strictly predict future interactions.
+  
 - **Supporting various supervised tasks**
   - Supervised with sampled negatives by a sampling strategy
   - Supervised with all positives and negatives (_All unobserved are negatives_)
@@ -13,10 +19,6 @@ _We opensource the framework and hope it could benefit the community._
   - Reproduce same results no matter what order of hyper-parameters in GS
   - Results are summarized to ease your manual comparison after GS
 
-- **Align recommendation with Industry**
-  - Global time splitting with timestamp (_Same raw source data, same results! Previous random 
-    splittings suffer from **data leakage** and do not hold this property._)
-  - Strictly predict future interactions.
 
 
 ## LayerGCN: Layer-refined Graph Convolutional Networks for Recommendation
