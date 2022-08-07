@@ -4,7 +4,7 @@ _We opensource the framework and hope it could benefit the community._
 
 ## Features
 
-- **Align recommendation to Industry**
+- **Aligning recommendation to Industry**
   - Global time splitting with timestamp (_Same raw source data, same results! Previous random 
     splittings suffer from **data leakage** and do not hold this property._)
   - Strictly predict future interactions.
