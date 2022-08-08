@@ -32,7 +32,7 @@ _We opensource the framework and hope it could benefit the community._
 | EHCF             | [Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation](https://ojs.aaai.org/index.php/AAAI/article/download/5329/5185)            | AAAI'20                | ehcf.py     |
 | BUIR             | [Bootstrapping User and Item Representations for One-Class Collaborative Filtering](https://arxiv.org/pdf/2105.06323.pdf)                      | SIGIR'21               | buir_*.py   |
 | LR-GCCF          | [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/pdf/2001.10167.pdf) | AAAI'20                | lrgccf.py   |
-| LightGCN         | [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)                        | SIGIR'20               |             |
+| LightGCN         | [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)                        | SIGIR'20               | lightgcn.py |
 |                  |                                                                                                        |                        |             |
 | **Newly added**  |                                                                                                        |                        |             |
 | LayerGCN         | [Layer-refined Graph Convolutional Networks for Recommendation](https://arxiv.org/pdf/2207.11088.pdf)                                          | arxiv                  | layergcn.py |
