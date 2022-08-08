@@ -23,7 +23,9 @@ _We opensource the framework and hope it could benefit the community._
   - Framework consistency is ensured
 
 ## Supported models (_More to expected_):
-\- _all source codes are under `models` dir_  
+\- _All source codes are under `models` dir_  
+\- _You may post an issue for the model you expected for an implementation, I'll intergate it if source code is available._  
+
 | **Model**       | **Paper (PDF)**                                                                                             | **Conference/Journal** | **Code**    |
 |------------------|--------------------------------------------------------------------------------------------------------|------------------------|-------------|
 | BPR              | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)                                              | UAI'09                 | bpr.py      |
