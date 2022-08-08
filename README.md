@@ -24,7 +24,7 @@ _We opensource the framework and hope it could benefit the community._
 
 ## Supported models (_More to expected_):
 \- _All source codes are under `models` dir_  
-\- _You may post an issue for the model you expected for an integration, I'll handle it if source code is available._  
+\- _You may post an issue for the model you expected an integration, I'll handle it if the source code is available._  
 
 | **Model**       | **Paper (PDF)**                                                                                             | **Conference/Journal** | **Code**    |
 |------------------|--------------------------------------------------------------------------------------------------------|------------------------|-------------|
