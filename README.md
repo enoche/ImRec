@@ -23,19 +23,19 @@ _We opensource the framework and hope it could benefit the community._
   - Framework consistence is ensured
 
 ## Supported models (_More to expected_):
-| **Models**       | **Papers**                                                                                             | **Conference/Journal** | **Code**    |
+| **Model**       | **Paper (PDF)**                                                                                             | **Conference/Journal** | **Code**    |
 |------------------|--------------------------------------------------------------------------------------------------------|------------------------|-------------|
-| BPR              | BPR: Bayesian Personalized Ranking from Implicit Feedback                                              | UAI'09                 | bpr.py      |
-| MultiVAE         | Variational Autoencoders for Collaborative Filtering                                                   | WWW'18                 | multivae.py |
-| NGCF             | Neural Graph Collaborative Filtering                                                                   | SIGIR'19               | ngcf.py     |
-| EHCF             | Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation            | AAAI'20                | ehcf.py     |
-| BUIR             | Bootstrapping User and Item Representations for One-Class Collaborative Filtering                      | SIGIR'21               | buir_*.py   |
-| LR-GCCF          | Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach | AAAI'20                | lrgccf.py   |
-| LightGCN         | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation                        | SIGIR'20               |             |
+| BPR              | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)                                              | UAI'09                 | bpr.py      |
+| MultiVAE         | [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf)                                                   | WWW'18                 | multivae.py |
+| NGCF             | [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf)                                                                   | SIGIR'19               | ngcf.py     |
+| EHCF             | [Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation](https://ojs.aaai.org/index.php/AAAI/article/download/5329/5185)            | AAAI'20                | ehcf.py     |
+| BUIR             | [Bootstrapping User and Item Representations for One-Class Collaborative Filtering](https://arxiv.org/pdf/2105.06323.pdf)                      | SIGIR'21               | buir_*.py   |
+| LR-GCCF          | [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/pdf/2001.10167.pdf) | AAAI'20                | lrgccf.py   |
+| LightGCN         | [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf)                        | SIGIR'20               |             |
 |                  |                                                                                                        |                        |             |
 | **Newly added**  |                                                                                                        |                        |             |
-| LayerGCN         | Layer-refined Graph Convolutional Networks for Recommendation                                          | arxiv                  | layergcn.py |
-| SelfCF(ed/he/ep) | SelfCF: A Simple Framework for Self-supervised Collaborative Filtering                                 | arxiv                  | selfcf*.py  |
+| LayerGCN         | [Layer-refined Graph Convolutional Networks for Recommendation](https://arxiv.org/pdf/2207.11088.pdf)                                          | arxiv                  | layergcn.py |
+| SelfCF(ed/he/ep) | [SelfCF: A Simple Framework for Self-supervised Collaborative Filtering](https://arxiv.org/pdf/2107.03019.pdf)                                 | arxiv                  | selfcf*.py  |
 
 
 ## LayerGCN: Layer-refined Graph Convolutional Networks for Recommendation
