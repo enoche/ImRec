@@ -19,8 +19,8 @@ _We opensource the framework and hope it could benefit the community._
   - Reproduce same results no matter what order of hyper-parameters in GS
   - Results are summarized to ease your manual comparison after GS
 
-- Personal mantenance
-  - Framework consistence is ensured
+- Personal maintenance
+  - Framework consistency is ensured
 
 ## Supported models (_More to expected_):
 | **Model**       | **Paper (PDF)**                                                                                             | **Conference/Journal** | **Code**    |
