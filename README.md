@@ -1,6 +1,6 @@
 # ImRec:<ins>Im</ins>plicit feedback based <ins>Rec</ins>ommendation framework  
 
-_We opensource the framework and hope it could benefit the community._
+_We opensource the framework and hope it could benefit the community. Please open an issue if you have difficulty reproducing the results._
 
 ## Features
 
