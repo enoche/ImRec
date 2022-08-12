@@ -22,7 +22,7 @@ _We opensource the framework and hope it could benefit the community. Please ope
 - **Personal maintenance**  
   - Framework consistency is ensured
 
-## Supported models (_More to expected_):
+## Supported models (_More to expect_):
 \- _All source codes are under `models` dir_  
 \- _You may post an issue for the model you expected an integration, I'll handle it if the source code is available._  
 
