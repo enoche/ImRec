@@ -9,6 +9,8 @@ _We opensource the framework and hope it could benefit the community. Please ope
     splittings suffer from **data leakage** and do not hold this property._)
   - Strictly predict future interactions.
   
+- **Reproducibility Ensured**: Same seed, same server(GPU), same performance.  
+
 - **Supporting various supervised tasks**
   - Supervised with sampled negatives by a sampling strategy
   - Supervised with all positives and negatives (_All unobserved are negatives_)
