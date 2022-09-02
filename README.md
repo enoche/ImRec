@@ -21,7 +21,7 @@ _We opensource the framework and hope it could benefit the community. Please ope
   - Reproduce same results no matter what order of hyper-parameters in GS
   - Results are summarized to ease your manual comparison after GS
 
-- **Personal maintenance**  
+- **Personal maintenance, towards bug-free**  
   - Framework consistency is ensured
 
 ## Supported models (_More to expect_):
