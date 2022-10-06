@@ -68,5 +68,5 @@ We report the best hyper-parameters of LayerGCN to reproduce the results in Tabl
 | Yelp     | 0.2     | 1e-03      |
 
 
-* Main frawmework is based on [Recbole](https://github.com/RUCAIBox/RecBole).
+* This repo. simplifies [Recbole](https://github.com/RUCAIBox/RecBole) to align with industry settings.
 
