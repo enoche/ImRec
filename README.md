@@ -1,6 +1,6 @@
 # ImRec:<ins>Im</ins>plicit feedback based <ins>Rec</ins>ommendation framework  
 
-_We opensource the framework and hope it could benefit the community. Please open an issue if you have difficulty reproducing the results._
+_We opensource the framework and hope it could benefit the community. Please open an issue if you have difficulty in reproducing the results._
 
 ## Features
 
@@ -21,7 +21,7 @@ _We opensource the framework and hope it could benefit the community. Please ope
   - Reproduce same results no matter what order of hyper-parameters in GS
   - Results are summarized to ease your manual comparison after GS
 
-- **Personal maintenance**  
+- **Personal maintenance, towards bug-free**  
   - Framework consistency is ensured
 
 ## Supported models (_More to expect_):
@@ -68,4 +68,5 @@ We report the best hyper-parameters of LayerGCN to reproduce the results in Tabl
 | Yelp     | 0.2     | 1e-03      |
 
 
+* This repo. simplifies [Recbole](https://github.com/RUCAIBox/RecBole) to align with industry settings.
 
