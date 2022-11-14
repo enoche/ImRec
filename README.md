@@ -39,7 +39,7 @@ _We opensource the framework and hope it could benefit the community. Please ope
 | BUIR             | [Bootstrapping User and Item Representations for One-Class Collaborative Filtering](https://arxiv.org/pdf/2105.06323.pdf)                      | SIGIR'21               | buir*.py   |
 |                  |                                                                                                        |                        |             |
 | **Newly added**  |                                                                                                        |                        |             |
-| :hearts: LayerGCN         | [Layer-refined Graph Convolutional Networks for Recommendation](https://arxiv.org/pdf/2207.11088.pdf)                                          | ICDE'23                  | layergcn.py |
+| ::fire: LayerGCN         | [Layer-refined Graph Convolutional Networks for Recommendation](https://arxiv.org/pdf/2207.11088.pdf)                                          | ICDE'23                  | layergcn.py |
 | SelfCF(ed/he/ep) | [SelfCF: A Simple Framework for Self-supervised Collaborative Filtering](https://arxiv.org/pdf/2107.03019.pdf)                                 | arxiv                  | selfcf*.py  |
 
 
