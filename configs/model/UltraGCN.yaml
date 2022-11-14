@@ -1,0 +1,49 @@
+#### The following config follows github, please refer line 29~End if you want to follow paper
+embedding_dim: 64
+
+ii_neighbor_num: 10
+initial_weight: 1e-4
+train_batch_size: 1024
+
+#L = -(w1 + w2*\beta)) * log(sigmoid(e_u e_i)) - \sum_{N-} (w3 + w4*\beta) * log(sigmoid(e_u e_i'))
+w1: 1e-8
+w2: 1
+w3: 1e-8
+w4: 1
+
+use_multi_sampling: True
+negative_num: 500
+negative_weight: 500
+
+#weight of l2 normalization
+gamma: [1e-4]
+#weight of L_I
+lambda: [2.75]
+
+#whether to sift the pos item when doing negative sampling
+sampling_sift_pos: False
+
+hyper_parameters: ["lambda", "gamma"]
+
+###############
+# Strictly following the paper
+# embedding_dim: 64
+#
+# ii_neighbor_num: 10
+# initial_weight: 1e-4
+# train_batch_size: 1024
+# #L = -(w1 + w2*\beta)) * log(sigmoid(e_u e_i)) - \sum_{N-} (w3 + w4*\beta) * log(sigmoid(e_u e_i'))
+# w1: 1e-7
+# w2: 1
+# w3: 1e-7
+# w4: 1
+# use_multi_sampling: True
+# negative_num: 300
+# negative_weight: 200
+# #weight of l2 normalization
+# gamma: [0.1, 0.5, 1.0, 1.5, 2.0, 2.5, 3, 3.5]
+# #weight of L_I
+# lambda: [0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.4]
+# #whether to sift the pos item when doing negative sampling
+# sampling_sift_pos: False
+# hyper_parameters: ["lambda", "gamma"]

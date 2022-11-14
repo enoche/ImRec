@@ -1,0 +1,8 @@
+
+embedding_dim: 64
+groups: 2
+layer_size: [64, 64, 64]
+regs: [1e-05]
+adj_type: 'pre'
+
+hyper_parameters: ["regs"]
