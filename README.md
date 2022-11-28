@@ -69,6 +69,16 @@ We report the best hyper-parameters of LayerGCN to reproduce the results in Tabl
 | Food     | 0.1     | 1e-02      |
 | Yelp     | 0.2     | 1e-03      |
 
+## Citing if this repo. helps:
+
+```
+@article{zhou2022layer,
+  title={Layer-refined Graph Convolutional Networks for Recommendation},
+  author={Zhou, Xin and Lin, Donghui and Liu, Yong and Miao, Chunyan},
+  journal={arXiv preprint arXiv:2207.11088},
+  year={2022}
+}
+```
 
 * This repo. simplifies [Recbole](https://github.com/RUCAIBox/RecBole) to align with industry settings.
 
