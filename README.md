@@ -78,6 +78,13 @@ We report the best hyper-parameters of LayerGCN to reproduce the results in Tabl
   journal={arXiv preprint arXiv:2207.11088},
   year={2022}
 }
+
+@article{zhou2021selfcf,
+  title={SelfCF: A Simple Framework for Self-supervised Collaborative Filtering},
+  author={Zhou, Xin and Sun, Aixin and Liu, Yong and Zhang, Jie and Miao, Chunyan},
+  journal={arXiv preprint arXiv:2107.03019},
+  year={2021}
+}
 ```
 
 * This repo. simplifies [Recbole](https://github.com/RUCAIBox/RecBole) to align with industry settings.
