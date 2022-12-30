@@ -1,6 +1,7 @@
 # ImRec:<ins>Im</ins>plicit feedback based <ins>Rec</ins>ommendation framework  
 
 _We opensource the framework and hope it could benefit the community. Please open an issue if you have difficulty in reproducing the results._
+- :twisted_rightwards_arrows: All my models (_LayerGCN/SelfCF_) are further integrated into the unified [MMRec](https://github.com/enoche/MMRec) framework.
 
 ## Features
 
