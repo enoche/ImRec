@@ -43,7 +43,7 @@ _We opensource the framework and hope it could benefit the community. Please ope
 |                  |                                                                                                        |                        |             |
 | **Newly added**  |                                                                                                        |                        |             |
 | :fire: LayerGCN         | [Layer-refined Graph Convolutional Networks for Recommendation](https://arxiv.org/pdf/2207.11088.pdf)                                          | ICDE'23                  | layergcn.py |
-| SelfCF(ed/he/ep) | [SelfCF: A Simple Framework for Self-supervised Collaborative Filtering](https://arxiv.org/pdf/2107.03019.pdf)                                 | arxiv                  | selfcf*.py  |
+| SelfCF(ed/he/ep) | [SelfCF: A Simple Framework for Self-supervised Collaborative Filtering](https://arxiv.org/pdf/2107.03019.pdf)                                 | ACM TORS'23                 | selfcf*.py  |
 
 
 ## LayerGCN: Layer-refined Graph Convolutional Networks for Recommendation
