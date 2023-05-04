@@ -80,11 +80,12 @@ We report the best hyper-parameters of LayerGCN to reproduce the results in Tabl
   year={2022}
 }
 
-@article{zhou2021selfcf,
-  title={SelfCF: A Simple Framework for Self-supervised Collaborative Filtering},
-  author={Zhou, Xin and Sun, Aixin and Liu, Yong and Zhang, Jie and Miao, Chunyan},
-  journal={arXiv preprint arXiv:2107.03019},
-  year={2021}
+@article{zhou2023selfcf,
+  author = {Zhou, Xin and Sun, Aixin and Liu, Yong and Zhang, Jie and Miao, Chunyan},
+  title = {SelfCF: A Simple Framework for Self-Supervised Collaborative Filtering},
+  year = {2023},
+  journal = {ACM Trans. Recomm. Syst.},
+  publisher = {Association for Computing Machinery},
 }
 ```
 
