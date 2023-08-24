@@ -73,12 +73,15 @@ We report the best hyper-parameters of LayerGCN to reproduce the results in Tabl
 ## Citing if this repo. helps:
 
 ```
-@article{zhou2022layer,
-  title={Layer-refined Graph Convolutional Networks for Recommendation},
+@inproceedings{zhou2023layer,
+  title={Layer-refined graph convolutional networks for recommendation},
   author={Zhou, Xin and Lin, Donghui and Liu, Yong and Miao, Chunyan},
-  journal={arXiv preprint arXiv:2207.11088},
-  year={2022}
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)},
+  pages={1247--1259},
+  year={2023},
+  organization={IEEE}
 }
+
 
 @article{zhou2023selfcf,
   author = {Zhou, Xin and Sun, Aixin and Liu, Yong and Zhang, Jie and Miao, Chunyan},
